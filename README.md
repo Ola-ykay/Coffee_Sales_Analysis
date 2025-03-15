@@ -34,4 +34,8 @@ This project analyzes coffee sales data using Excel to extract key business insi
 ### Key Features of the Dashboard
 1. Dynamic filters to analyze sales by month and store.
 2. Visual representation of revenue trends and customer patterns.
-3. Actionable insights to optimize sales strategies and inventory 
+3. Actionable insights to optimize sales strategies and inventory
+
+### Dashboard Preview
+![Coffee Sales Analysis]()
+
