@@ -37,5 +37,5 @@ This project analyzes coffee sales data using Excel to extract key business insi
 3. Actionable insights to optimize sales strategies and inventory
 
 ### Dashboard Preview
-![Coffee Sales Analysis]()
+![Coffee Sales Analysis](https://github.com/Ola-ykay/Coffee_Sales_Analysis/blob/main/coffee_dashboard.png)
 
